@@ -1,0 +1,21 @@
+{
+    "name": "Chrome extension icon TESTS",
+    "version": "0.0.1",
+    "description": "This extension does nothing – it only exists to see which icons Chrome uses in different contexts",
+    "manifest_version": 2,
+    "icons": {
+        "16": "icons/icon-16.png",
+        "19": "icons/icon-19.png",
+        "24": "icons/icon-24.png",
+        "32": "icons/icon-32.png",
+        "38": "icons/icon-38.png",
+        "48": "icons/icon-48.png",
+        "64": "icons/icon-64.png",
+        "96": "icons/icon-96.png",
+        "128": "icons/icon-128.png",
+        "256": "icons/icon-256.png"
+    },
+    "browser_action": {
+        "default_title": "Does nothing – icon test only"
+    }
+}
